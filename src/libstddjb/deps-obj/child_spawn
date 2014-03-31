@@ -1,0 +1,6 @@
+bytestr.h
+strerr2.h
+allreadwrite.h
+env.h
+sig.h
+djbunix.h
